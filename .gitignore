@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional cache
+.cache/
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
